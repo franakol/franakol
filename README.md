@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Francis Akol
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects in Python
+- 👀 I’m a Full-stack Software developer
+- 🌱 Javascript, python
+- 💞️ I’m looking to meeting new people
 - 📫 How to reach me by email akolfracis40@gmail.com @FrancisAkol3
 
 <!---
