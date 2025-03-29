@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Francis Akol
 - 👀 I’m a Full-stack Software developer
-- 🌱 Javascript, python
+- 🌱 Javascript, python, Angular
 - 📫 How to reach me by email akolfrancis40@gmail.com @FrancisAkol3
 
 <!---
