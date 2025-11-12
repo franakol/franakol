@@ -1,6 +1,9 @@
 # 💫 About Me:
 🚀 I’m currently working on building a digital payments platform that works seamlessly across Africa.  <br>🤝 I’m looking to collaborate on impactful fintech, edtech, or open-source projects.  <br>🧠 I’m looking for help with optimizing microservices and scaling backend infrastructure.  <br>🌱 I’m currently learning more about AI integrations, system design, and TypeScript best practices.  <br>💬 Ask me about developer communities (I'm a GDG Lead!), building with Angular, or payment APIs.  <br>⚡ Fun fact: I once hosted a tech event from a moving bus — Wi-Fi, laptops, and vibes included.<br>
 
+[![committers.top badge](https://user-badge.committers.top/REGION/USERNAME.svg)](https://user-badge.committers.top/REGION/USERNAME)
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francis-akol) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/FrancisAkol3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akolfrancis40@gmail.com) 
