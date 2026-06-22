@@ -1,6 +1,6 @@
 ## Francis Akol
 
-Associate Engineer at **Amalitech Rwanda** · Kigali, Rwanda
+Engineering Lead at **InversePay** · Kigali, Rwanda
 
 I build production fintech and product platforms across East Africa — working across the full stack from backend APIs to mobile apps, with increasing focus on the product side of delivery.
 
